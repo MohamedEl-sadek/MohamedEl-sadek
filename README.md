@@ -339,21 +339,14 @@ Business Intelligence & Analytics
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                            -->
+<!--                    CONTRIBUTION CALENDAR                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">📅 Contribution Calendar</h2>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/MohamedEl-sadek/MohamedEl-sadek/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/MohamedEl-sadek/MohamedEl-sadek/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/MohamedEl-sadek/MohamedEl-sadek/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://ghchart.rshah.org/00BFFF/MohamedEl-sadek" alt="Mohamed's GitHub Contribution Chart" width="100%" />
 
 </div>
 
