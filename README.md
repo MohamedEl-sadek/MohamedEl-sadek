@@ -1,143 +1,88 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0A2540,100:0D1117&height=3" />
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      HERO BANNER                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<br/>
 
-# Mohamed El-Sadek
-
-### Data Analyst &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; ML Engineer
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+strategic+intelligence+%F0%9F%93%8A;Building+production-ready+ML+pipelines+%F0%9F%A4%96;Designing+executive+Power+BI+dashboards+%F0%9F%93%88;SQL+%7C+Python+%7C+Power+BI+%7C+Deep+Learning)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/mohamed-el-sadek-396163249/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohamed122074@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.kaggle.com/mohamedelsadek44">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-<a href="https://mohamedel-sadek.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MohamedEl-sadek&label=Profile+Views&color=00BFFF&style=flat-square" />
-&nbsp;
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-Available-2ECC71?style=flat-square)
-&nbsp;
-![Location](https://img.shields.io/badge/%F0%9F%93%8D_LOCATION-Zagazig%2C_Egypt-FF6B6B?style=flat-square)
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mohamed%20El-Sadek&fontSize=52&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20ML%20Engineer&descColor=00D4FF&descAlignY=75&descSize=20" width="100%"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00BFFF,100:0D1117&height=2" />
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+strategic+intelligence;Building+production-ready+ML+pipelines;Designing+executive+Power+BI+dashboards;SQL+%7C+Python+%7C+Power+BI+%7C+Deep+Learning)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-sadek-396163249/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed122074@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedelsadek44)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-6f42c1?style=flat-square&logo=googlechrome&logoColor=white)](https://mohamedel-sadek.github.io)
+[![Profile Views](https://komarev.com/ghpvc/?username=MohamedEl-sadek&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/MohamedEl-sadek)
+
+<br/>
+
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-2ECC71?style=flat-square)](https://www.linkedin.com/in/mohamed-el-sadek-396163249/)
+[![Location](https://img.shields.io/badge/Location-Zagazig%2C%20Egypt-FF6B6B?style=flat-square)](https://github.com/MohamedEl-sadek)
+[![Current Role](https://img.shields.io/badge/Current-Data%20Scientist%20%40%20Petco-00D4FF?style=flat-square)](https://github.com/MohamedEl-sadek)
+
+</div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     PROFILE PHOTO + BIO                    -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## About Me
 
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td align="center" width="200">
-
-<img src="https://raw.githubusercontent.com/MohamedEl-sadek/MohamedEl-sadek/main/profile.jpeg"
-     width="160" height="160"
-     style="border-radius:50%; object-fit:cover; border:4px solid #00BFFF;"
-     alt="Mohamed El-Sadek" />
-
-<br/>
-
-**Mohamed El-Sadek**
-<br/>
-`Data Scientist @ Petco 🇸🇦`
-
-</td>
-<td width="30"></td>
-<td valign="top">
-
-### 👋 Hi there!
+<img align="right" src="https://raw.githubusercontent.com/MohamedEl-sadek/MohamedEl-sadek/main/profile.jpeg" width="180" style="border-radius:12px; margin-left:20px;" />
 
 I'm a **Data Scientist & Business Intelligence Engineer** based in Zagazig, Egypt — currently working at **Petco (Saudi Arabia)** and serving as a **Data Science Core Member at GDG Zagazig**.
 
-I specialize in building **end-to-end data solutions**: from cleaning raw datasets and engineering SQL data warehouses, to training deep learning models and delivering executive Power BI dashboards.
+I specialize in building **end-to-end data solutions**: from cleaning raw datasets and engineering SQL data warehouses, to training deep learning models and delivering executive Power BI dashboards that drive real business decisions.
 
-📌 **BSc Computer Science** — Zagazig University *(Very Good · Graduation Project: Excellent)*
+**Education:** BSc Computer Science — Zagazig University *(Very Good · Graduation Project: Excellent)*
 
-🏆 **Key achievements:**
-- Built **8+ Power BI dashboards** boosting community engagement **25%**
-- Trained **50+ participants** in data analysis · Recognized as best communicator
-- Developed ML models achieving up to **98% accuracy**
-- Analyzed **180K+ records** across supply chain, finance & healthcare domains
+**Key Achievements:**
+- Built **8+ Power BI dashboards** · Boosted community engagement by **25%**
+- Trained **50+ participants** in data analysis · Recognized as **Best Communicator**
+- ML models reaching up to **98% accuracy** across healthcare, finance & supply chain
+- Analyzed **180K+ records** for production-grade BI solutions
 
-🎯 **Currently exploring:** LLMs · MLflow · dbt · Azure ML Studio
+**Currently Exploring:** LLMs · MLflow · dbt · Azure ML Studio
 
-</td>
-</tr>
-</table>
-
-<br/>
+<br clear="right"/>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MohamedEl-sadek&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9&ring_color=00BFFF" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEl-sadek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedEl-sadek&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEl-sadek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEl-sadek&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&sideLabels=C9D1D9&dates=C9D1D9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEl-sadek&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEl-sadek&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEl-sadek&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="98%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedEl-sadek&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedEl-sadek&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **Languages & Query**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![M Query](https://img.shields.io/badge/Power%20Query%20M-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query M](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Machine Learning & Deep Learning**
 
@@ -162,8 +107,9 @@ I specialize in building **end-to-end data solutions**: from cleaning raw datase
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-**MLOps & Cloud**
+**MLOps, Cloud & Dev Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -171,117 +117,87 @@ I specialize in building **end-to-end data solutions**: from cleaning raw datase
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## Featured Projects
 
-## 🚀 Featured Projects
+### Machine Learning & Deep Learning
 
-### 🤖 Machine Learning & Deep Learning
-
-| Project | Description | Stack | Result |
+| Project | Description | Stack | Accuracy |
 |---|---|---|---|
-| 🔥 **BurnNet** | Burn degree classification with clinical-grade accuracy | EfficientNetB3 · SMOTE · Streamlit | **92% accuracy** |
-| 💳 **Credit Card Fraud Detection** | Real-time fraud detection on imbalanced financial data | XGBoost · Random Forest · SMOTE | **98% accuracy** |
-| 👁️ **Ocular Disease Classifier** | Multi-class retinal disease detection (Glaucoma, DR, ARMD) | TensorFlow · CNN · OpenCV · Augmentation | **~80% accuracy** |
-| ☄️ **Neo-Hazard Prediction** | Near-Earth Object hazard assessment + web app | Random Forest · XGBoost · Streamlit | **89% accuracy** |
-| 🪐 **Asteroid Diameter Prediction** | Regression on NASA NEOWISE dataset | Gradient Boosting · Ensemble ML | **94% accuracy** |
-| 🚦 **Traffic Sign Detection** | Real-time detection for autonomous driving systems | CNN · OpenCV · Computer Vision | Real-time inference |
-| 🌿 **Potato Leaf Disease** | Early-stage crop disease detection from leaf images | Image Segmentation · Deep Learning | Precision agriculture |
+| **BurnNet** | Clinical burn degree classification — deployed as web app | EfficientNetB3 · SMOTE · Streamlit | **92%** |
+| **Fraud Detection** | Real-time credit card fraud on highly imbalanced data | XGBoost · Random Forest · SMOTE | **98%** |
+| **Ocular Disease Classifier** | Multi-class retinal disease detection (Glaucoma, DR, ARMD, Cataracts) | TensorFlow · CNN · OpenCV | **~80%** |
+| **Neo-Hazard Prediction** | Near-Earth Object hazard classifier + interactive web app | Random Forest · XGBoost · Streamlit | **89%** |
+| **Asteroid Diameter Prediction** | Regression model on NASA NEOWISE dataset | Gradient Boosting · Ensemble ML | **94%** |
+| **Traffic Sign Detection** | Real-time autonomous systems object detection | CNN · OpenCV · Computer Vision | Real-time |
+| **Potato Leaf Disease** | Early-stage crop disease detection from imagery | Image Segmentation · Deep Learning | Precision Ag. |
 
-### 📊 Business Intelligence & Analytics
+### Business Intelligence & Analytics
 
 | Project | Description | Stack | Scale |
 |---|---|---|---|
-| 🏭 **SMART Supply Chain Dashboard** | End-to-end BI solution with star schema DW and 60+ DAX measures | Power BI · SQL Server · Python · DAX | 180K orders · 19 EDA charts |
-| 🍕 **Pizza Shop Sales** | Revenue, order value & category trend analysis | Power BI · SQL Server · DAX | Multi-period KPIs |
-| 🎫 **Help Desk Performance** | SLA tracking, resolution time & agent KPIs | Power BI · 15+ KPIs | 2,000+ records |
-| ☕ **Coffee Quality Analytics** | Multi-variable quality scoring across origins & batches | Power BI · Data Storytelling | 1,300+ records |
-| ❤️ **Heart Failure Analysis** | Clinical feature correlation & outcome prediction | SQL Server · Statistical Analysis | 300+ records |
+| **SMART Supply Chain Dashboard** | End-to-end BI — star schema DW, 60+ DAX measures, 19 EDA charts | Power BI · SQL Server · Python | 180K orders |
+| **Pizza Shop Sales** | Revenue, order value, category & period trend analysis | Power BI · SQL Server · DAX | Multi-KPI |
+| **Help Desk Performance** | SLA tracking, resolution time & agent performance | Power BI · 15+ KPIs | 2,000+ records |
+| **Coffee Quality Analytics** | Multi-variable quality scoring across origins and batches | Power BI · Data Storytelling | 1,300+ records |
+| **Heart Failure Analysis** | Clinical feature correlation & outcome risk analysis | SQL Server · Statistics | 300+ records |
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    EXPERIENCE                               -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## Professional Experience
 
-## 💼 Professional Experience
-
-| Period | Role | Organization | Key Contributions |
+| Period | Role | Organization | Highlights |
 |---|---|---|---|
-| Sep 2024 – Present | **Data Scientist & Analyst** | Petco, Saudi Arabia 🇸🇦 | ML models for business optimization & customer analytics |
-| Sep 2024 – Present | **Data Science Core Member** | GDG Zagazig | 4+ dashboards · 25% engagement boost · 6+ workshops |
-| Sep 2024 – Jul 2025 | **Data Science Team Lead** | Byte Beam | Led 5-member team · CNN skin disease classifier · MLOps |
-| Nov 2024 – May 2025 | **Data Analytics Trainee** | DEBI – Digital Egypt Pioneers Initiative | 8+ Power BI dashboards · Azure · Tableau |
-| May 2024 – Sep 2024 | **Data Science & AI Intern** | Microsoft Student Club – EELU | Python · Scikit-learn · 3+ analytical reports |
-| Jun 2024 – Jul 2024 | **Data Science Instructor** | GCAMP @ GDG Zagazig | Trained **50+ participants** · Best Communicator Award 🏆 |
+| Sep 2024 – Present | **Data Scientist & Analyst** | Petco, Saudi Arabia | ML optimization models · Customer analytics |
+| Sep 2024 – Present | **Data Science Core Member** | GDG Zagazig | 4+ dashboards · 25% engagement lift · 6 workshops |
+| Sep 2024 – Jul 2025 | **Data Science Team Lead** | Byte Beam | Led 5-member team · CNN classifier · MLOps delivery |
+| Nov 2024 – May 2025 | **Data Analytics Trainee** | DEBI — Digital Egypt Pioneers | 8+ dashboards · Power BI · Azure · Tableau |
+| May 2024 – Sep 2024 | **Data Science & AI Intern** | Microsoft Student Club – EELU | Python · Scikit-learn · 3 analytical reports |
+| Jun 2024 – Jul 2024 | **Data Science Instructor** | GCAMP @ GDG Zagazig | Trained 50+ participants · Best Communicator Award |
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🏅 Certifications
+## Certifications
 
 <div align="center">
 
-![DataCamp](https://img.shields.io/badge/DataCamp-Data%20Analyst%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-![DataCamp](https://img.shields.io/badge/DataCamp-SQL%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-PL--300%20Power%20BI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-Advanced%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![IBM](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science%20%26%20AI-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![YAT](https://img.shields.io/badge/YAT-Power%20BI%20Engineer-1E3A5F?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft-Excel%20Formulas%20%26%20Functions-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Data%20Analyst%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com)
+[![DataCamp](https://img.shields.io/badge/DataCamp-SQL%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com)
+[![Microsoft](https://img.shields.io/badge/Microsoft-PL--300%20Power%20BI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com)
+[![Microsoft](https://img.shields.io/badge/Microsoft-Advanced%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com)
+[![IBM](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science%20%26%20AI-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com)
+[![YAT](https://img.shields.io/badge/YAT-Power%20BI%20Engineer-1E3A5F?style=for-the-badge&logo=powerbi&logoColor=white)](https://yat.edu.eg)
+[![Microsoft](https://img.shields.io/badge/Microsoft-Excel%20Formulas%20%26%20Functions-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://learn.microsoft.com)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION CALENDAR                     -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 📅 Contribution History
+## Contribution History
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00BFFF/MohamedEl-sadek" alt="GitHub Contribution Chart" width="98%" />
+<img src="https://ghchart.rshah.org/00D4FF/MohamedEl-sadek" alt="GitHub Contribution Chart" width="98%"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      CONNECT                               -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohamed-el-sadek-396163249/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:mohamed122074@gmail.com">
-  <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.kaggle.com/mohamedelsadek44">
-  <img src="https://img.shields.io/badge/Kaggle_Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://mohamedel-sadek.github.io">
-  <img src="https://img.shields.io/badge/Portfolio_Website-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-sadek-396163249/)
+[![Gmail](https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed122074@gmail.com)
+[![Kaggle](https://img.shields.io/badge/View%20Kaggle%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedelsadek44)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedel-sadek.github.io)
 
-<br/><br/>
+<br/>
 
 > *"The goal is to turn data into information, and information into insight."*
 
@@ -289,4 +205,4 @@ I specialize in building **end-to-end data solutions**: from cleaning raw datase
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A2540&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
