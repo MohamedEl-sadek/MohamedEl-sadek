@@ -225,6 +225,9 @@
 <a href="https://www.kaggle.com/mohamedelsadek44">
 <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
+<a href="https://mohamedel-sadek.github.io">
+<img src="https://img.shields.io/badge/Portfolio-View-6f42c1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
